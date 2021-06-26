@@ -1,14 +1,10 @@
 ---
-title: "About uBlogger"
-date: 2019-08-02T11:04:49+08:00
-draft: false
-
-
-
+title: About Abid
+date: 2019-08-02T11:04:49.000+08:00
 math:
   enable: true
----
 
+---
 {{< style "img { height: 1.25rem; }" >}}
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/upagge/uBlogger?style=flat-square)](https://github.com/upagge/uBlogger/releases)
 [![Hugo](https://img.shields.io/badge/Hugo-%5E0.62.0-ff4088?style=flat-square&logo=hugo)](https://gohugo.io/)
