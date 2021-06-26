@@ -1,0 +1,17 @@
+---
+label: MUHAMMED ABID KP
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: field_group
+  name: math
+  label: math
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
