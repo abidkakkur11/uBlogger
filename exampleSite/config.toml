@@ -217,9 +217,9 @@ enableEmoji = true
         #Matrix = ""
         #Bilibili = ""
         Email = "abidkakkur11@gmail.com"
-        DockerHub = ""
+        #DockerHub = ""
         #Discord = "xxxxxxxxx"
-        Leanpub = ""
+        #Leanpub = ""
         #Udemy = ""
         RSS = false
         [languages.en.params.social.Mastodon]
