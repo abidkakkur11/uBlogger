@@ -156,7 +156,7 @@ enableEmoji = true
       # Social config in home page
       [languages.en.params.social]
         GitHub = "abidkakkur11"
-        Linkedin = "in/abidkp/"
+        Linkedin = "abidkp/"
         Twitter = "AbidKkr"
         Instagram = "aabye__/"
         Facebook = "abid.kakkur/"
@@ -165,7 +165,7 @@ enableEmoji = true
         #Gitlab = ""
         #Youtubelegacy = "xxxx"
         #Youtubecustom = ""
-        Youtubechannel = "https://bit.ly/AbidkpYT"
+        Youtubechannel = "Abid KP"
         #Tumblr = ""
         #Quora = ""
         #Keybase = ""
