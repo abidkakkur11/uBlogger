@@ -137,7 +137,7 @@ enableEmoji = true
         [languages.en.params.home.profile]
           enable = true
           # Gravatar Email for preferred avatar in home page
-          gravatarEmail = ""
+          gravatarEmail = "abidkakkur11@gmail.com"
           # URL of avatar shown in home page
           avatarURL = "/images/avatar2.jpg"
           # title shown in home page (HTML format is supported)
