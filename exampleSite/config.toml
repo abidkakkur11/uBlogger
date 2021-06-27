@@ -155,13 +155,13 @@ enableEmoji = true
           paginate = 6
       # Social config in home page
       [languages.en.params.social]
-        GitHub = "https://github.com/abidkakkur11"
-        Linkedin = "https://www.linkedin.com/in/abidkp/"
-        Twitter = "https://twitter.com/AbidKkr"
-        Instagram = "https://www.instagram.com/aabye__/"
-        Facebook = "https://www.facebook.com/abid.kakkur/"
-        Telegram = "https://t.me/abidkakkur11"
-        Medium = "https://medium.com/@abidkakkur11"
+        GitHub = "abidkakkur11"
+        Linkedin = "in/abidkp/"
+        Twitter = "AbidKkr"
+        Instagram = "aabye__/"
+        Facebook = "abid.kakkur/"
+        Telegram = "abidkakkur11"
+        Medium = "@abidkakkur11"
         #Gitlab = ""
         #Youtubelegacy = "xxxx"
         #Youtubecustom = ""
