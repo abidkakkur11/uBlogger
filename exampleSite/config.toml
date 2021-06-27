@@ -137,7 +137,7 @@ enableEmoji = true
         [languages.en.params.home.profile]
           enable = true
           # Gravatar Email for preferred avatar in home page
-          gravatarEmail = "abidkakkur11@gmail.com"
+          gravatarEmail = ""
           # URL of avatar shown in home page
           avatarURL = "/images/avatar2.jpg"
           # title shown in home page (HTML format is supported)
@@ -410,10 +410,10 @@ enableEmoji = true
   [params.page]
     # whether to hide a page from home page
     # 是否在主页隐藏一篇文章
-    hiddenFromHomePage = false
+    hiddenFromHomePage = true
     # whether to hide a page from search results
     # 是否在搜索结果中隐藏一篇文章
-    hiddenFromSearch = false
+    hiddenFromSearch = true
     # whether to enable twemoji
     # 是否使用 twemoji
     twemoji = false
