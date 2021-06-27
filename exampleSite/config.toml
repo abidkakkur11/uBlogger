@@ -11,7 +11,7 @@ themesDir = "../.."
 
 # website title
 # 网站标题
-title = "uBlogger"
+title = "Abid KP"
 
 # whether to use robots.txt
 # 是否使用 robots.txt
@@ -35,44 +35,44 @@ enableEmoji = true
     # default amount of posts in each pages
     paginate = 12
     # copyright description used only for seo schema
-    copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+    #copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
     # Menu config
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "posts"
+        #identifier = "posts"
         # you can add extra information before the name (HTML format is supported), such as icons
-        pre = ""
+        #pre = ""
         # you can add extra information after the name (HTML format is supported), such as icons
-        post = ""
-        name = "Posts"
-        url = "/posts/"
+        #post = ""
+        #name = "Posts"
+        #url = "/posts/"
         # title will be shown when you hover on this menu link.
-        title = ""
-        weight = 1
+        #title = ""
+        #weight = 1
       [[languages.en.menu.main]]
-        identifier = "tags"
-        pre = ""
-        post = ""
-        name = "Tags"
-        url = "/tags/"
-        title = ""
-        weight = 2
+        #identifier = "tags"
+        #pre = ""
+        #post = ""
+        #name = "Tags"
+        #url = "/tags/"
+        #title = ""
+        #weight = 2
       [[languages.en.menu.main]]
-        identifier = "categories"
-        pre = ""
-        post = ""
-        name = "Categories"
-        url = "/categories/"
-        title = ""
-        weight = 3
+        #identifier = "categories"
+        #pre = ""
+        #post = ""
+        #name = "Categories"
+        #url = "/categories/"
+        #title = ""
+        #weight = 3
       [[languages.en.menu.main]]
-        identifier = "documentation"
-        pre = ""
-        post = ""
-        name = "Docs"
-        url = "/categories/documentation/"
-        title = ""
-        weight = 4
+        #identifier = "documentation"
+        #pre = ""
+        #post = ""
+        #name = "Docs"
+        #url = "/categories/documentation/"
+        #title = ""
+        #weight = 4
       [[languages.en.menu.main]]
         identifier = "about"
         pre = ""
@@ -86,18 +86,18 @@ enableEmoji = true
         pre = "<i class='fab fa-github fa-fw'></i>"
         post = ""
         name = ""
-        url = "https://github.com/upagge/ublogger"
+        url = "https://github.com/abidkakkur11"
         title = "GitHub"
         weight = 6
     [languages.en.params]
       # site description
-      description = "About uBlogger Theme"
+      description = "About Abid"
       # site keywords
-      keywords = ["Theme", "Hugo"]
+      #keywords = ["Theme", "Hugo"]
       # App icon config
       [languages.en.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher
-        title = "uBlogger"
+        title = "Abid KP"
         # whether to omit favicon resource links
         noFavicon = false
         # modern SVG favicon to use in place of older style .png and .ico files
@@ -141,13 +141,13 @@ enableEmoji = true
           # URL of avatar shown in home page
           avatarURL = "/images/avatar.png"
           # title shown in home page (HTML format is supported)
-          title = "uBlogger | Hugo Theme"
+          title = "I am Abid"
           # subtitle shown in home page (HTML format is supported)
-          subtitle = "A Clean, Elegant but Advanced Hugo Theme"
+          subtitle = " Programmer | Designer | Freelancer "
           # whether to show social links
           social = true
           # disclaimer (HTML format is supported)
-          disclaimer = ""
+          #disclaimer = ""
         # Home page posts
         [languages.en.params.home.posts]
           enable = true
@@ -156,10 +156,10 @@ enableEmoji = true
       # Social config in home page
       [languages.en.params.social]
         GitHub = "xxxx"
-        Linkedin = ""
+        Linkedin = "https://www.linkedin.com/in/abidkp/"
         Twitter = "xxxx"
-        Instagram = "xxxx"
-        Facebook = "xxxx"
+        Instagram = "https://www.instagram.com/aabye__/"
+        Facebook = "https://www.facebook.com/abid.kakkur/"
         Telegram = "xxxx"
         Medium = ""
         Gitlab = ""
@@ -261,7 +261,7 @@ enableEmoji = true
       logo = ""
       # title name
       # 标题名称
-      name = "uBlogger"
+      name = "Abidkp"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = "<i class='fas fa-pencil-alt fa-fw'></i>"
@@ -501,7 +501,7 @@ enableEmoji = true
       enable = true
       Twitter = true
       Facebook = true
-      Linkedin = false
+      Linkedin = true
       Whatsapp = false
       Pinterest = false
       Tumblr = false
