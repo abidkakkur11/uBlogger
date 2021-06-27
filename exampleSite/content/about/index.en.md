@@ -6,8 +6,6 @@ math:
 
 ---
 {{< style "img { height: 1.25rem; }" >}}
- {{< /style >}}
+{{< /style >}}
 
 > I have been involving in the area of IT since last 5 years. From my school periods onwards.I started my research and self-studying in programming. I got many opportunities to participate and showcase my skills in different competition and events.
->
-> ![](/uploads/img_20201021_102545-3.jpg)
