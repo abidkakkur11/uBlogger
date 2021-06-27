@@ -221,7 +221,7 @@ enableEmoji = true
         #Discord = "xxxxxxxxx"
         Leanpub = ""
         #Udemy = ""
-        RSS = true
+        RSS = false
         [languages.en.params.social.Mastodon]
           id = "@xxxx"
           prefix = "https://mastodon.technology/"
@@ -272,19 +272,19 @@ enableEmoji = true
   # Footer config
   # 页面底部信息配置
   [params.footer]
-    enable = true
+    enable = false
     # Custom content (HTML format is supported)
     # 自定义内容 (支持 HTML 格式)
     custom = ''
     # whether to show Hugo and theme info
     # 是否显示 Hugo 和主题信息
-    hugo = true
+    hugo = false
     # whether to show copyright info
     # 是否显示版权信息
-    copyright = true
+    copyright = false
     # whether to show the author
     # 是否显示作者
-    author = true
+    author = false
     # site creation time
     # 网站创立年份
     since = 2019
