@@ -258,7 +258,7 @@ enableEmoji = true
     [params.header.title]
       # URL of the LOGO
       # LOGO 的 URL
-      logo = "/images/avatar2.jpg"
+      logo = ""
       # title name
       # 标题名称
       name = "Abidkp"
