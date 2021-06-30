@@ -139,7 +139,7 @@ enableEmoji = true
           # Gravatar Email for preferred avatar in home page
           gravatarEmail = ""
           # URL of avatar shown in home page
-          avatarURL = "/images/avatar2.jpg"
+          avatarURL = "/images/avatar3.png"
           # title shown in home page (HTML format is supported)
           title = "I am Abid"
           # subtitle shown in home page (HTML format is supported)
@@ -242,14 +242,14 @@ enableEmoji = true
   dateFormat = "2006-01-02"
   # website images for Open Graph and Twitter Cards
   # 网站图片, 用于 Open Graph 和 Twitter Cards
-  images = ["/logo.png"]
+  images = ["/images/avatar3.png"]
 
   # Header config
   # 页面头部导航栏配置
   [params.header]
     # desktop header mode ("fixed", "normal", "auto")
     # 桌面端导航栏模式 ("fixed", "normal", "auto")
-    desktopMode = "auto"
+    desktopMode = "fixed"
     # mobile header mode ("fixed", "normal", "auto")
     # 移动端导航栏模式 ("fixed", "normal", "auto")
     mobileMode = "auto"
