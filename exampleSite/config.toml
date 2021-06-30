@@ -180,7 +180,7 @@ enableEmoji = true
         #VK = ""
         #Flickr = ""
         #Xing = ""
-        #Snapchat = ""
+        Snapchat = "abid_kp2021"
         #Soundcloud = ""
         #Spotify = ""
         #Bandcamp = ""
@@ -197,7 +197,7 @@ enableEmoji = true
         #Twitch = ""
         #Strava = ""
         #Skype = ""
-        #Whatsapp = ""
+        Whatsapp = "+919020373488"
         #Zhihu = ""
         #Douban = ""
         #Angellist = ""
@@ -550,7 +550,7 @@ enableEmoji = true
       # 出版者信息
       [params.page.seo.publisher]
         name = "xxxx"
-        logoUrl = "/images/avatar3.png"
+        logoUrl = ""
 
   # Site verification code for Google/Bing/Yandex/Pinterest/Baidu
   # 网站验证代码，用于 Google/Bing/Yandex/Pinterest/Baidu
