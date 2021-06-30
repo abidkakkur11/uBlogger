@@ -139,7 +139,7 @@ enableEmoji = true
           # Gravatar Email for preferred avatar in home page
           gravatarEmail = ""
           # URL of avatar shown in home page
-          avatarURL = ""
+          avatarURL = "/images/avatar2.jpg"
           # title shown in home page (HTML format is supported)
           title = "I am Abid"
           # subtitle shown in home page (HTML format is supported)
@@ -258,7 +258,7 @@ enableEmoji = true
     [params.header.title]
       # URL of the LOGO
       # LOGO 的 URL
-      logo = "/images/avatar3.png"
+      logo = ""
       # title name
       # 标题名称
       name = "Abidkp"
