@@ -101,7 +101,7 @@ enableEmoji = true
         # whether to omit favicon resource links
         noFavicon = false
         # modern SVG favicon to use in place of older style .png and .ico files
-        svgFavicon = "/images/avatar3.png"
+        svgFavicon = ""
         # Android browser theme color
         themeColor = "#ffffff"
         # Safari mask icon color
@@ -550,7 +550,7 @@ enableEmoji = true
       # 出版者信息
       [params.page.seo.publisher]
         name = "xxxx"
-        logoUrl = ""
+        logoUrl = "/images/avatar3.png"
 
   # Site verification code for Google/Bing/Yandex/Pinterest/Baidu
   # 网站验证代码，用于 Google/Bing/Yandex/Pinterest/Baidu
