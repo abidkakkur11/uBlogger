@@ -139,7 +139,7 @@ enableEmoji = true
           # Gravatar Email for preferred avatar in home page
           gravatarEmail = ""
           # URL of avatar shown in home page
-          avatarURL = "/images/avatar3.png"
+          avatarURL = "/images/avatar2.png"
           # title shown in home page (HTML format is supported)
           title = "I am Abid"
           # subtitle shown in home page (HTML format is supported)
@@ -550,7 +550,7 @@ enableEmoji = true
       # 出版者信息
       [params.page.seo.publisher]
         name = "xxxx"
-        logoUrl = "/images/avatar2.png"
+        logoUrl = "/images/avatar3.png"
 
   # Site verification code for Google/Bing/Yandex/Pinterest/Baidu
   # 网站验证代码，用于 Google/Bing/Yandex/Pinterest/Baidu
