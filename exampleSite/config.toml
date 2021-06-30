@@ -75,7 +75,7 @@ enableEmoji = true
         #weight = 4
       [[languages.en.menu.main]]
         identifier = "about"
-        pre = ""
+        pre = "About Abid"
         post = ""
         name = "About"
         url = "/about/"
@@ -101,7 +101,7 @@ enableEmoji = true
         # whether to omit favicon resource links
         noFavicon = false
         # modern SVG favicon to use in place of older style .png and .ico files
-        svgFavicon = ""
+        svgFavicon = "/images/avatar3.png"
         # Android browser theme color
         themeColor = "#ffffff"
         # Safari mask icon color
@@ -252,13 +252,13 @@ enableEmoji = true
     desktopMode = "fixed"
     # mobile header mode ("fixed", "normal", "auto")
     # 移动端导航栏模式 ("fixed", "normal", "auto")
-    mobileMode = "auto"
+    mobileMode = "normal"
     # Header title config
     # 页面头部导航栏标题配置
     [params.header.title]
       # URL of the LOGO
       # LOGO 的 URL
-      logo = ""
+      logo = "/images/avatar3.png"
       # title name
       # 标题名称
       name = "Abidkp"
